@@ -62,6 +62,7 @@ This is a Node.js Express API designed to handle email operations using MongoDB.
 
     ```bash
     npm install
+    npx prisma generate
     
 
 
