@@ -1,4 +1,4 @@
-# RocketChat Email API
+# Gym Fellas
 
 This is a Node.js Express API designed to handle email operations using MongoDB. It provides endpoints for creating and retrieving email configurations.
 
@@ -6,9 +6,9 @@ This is a Node.js Express API designed to handle email operations using MongoDB.
 
 - [Prerequisites](#prerequisites)
 - [Getting Started](#getting-started)
-- [Development Documentation](#development-documentation)
+<!-- - [Development Documentation](#development-documentation)
 - [Authentication](#authentication)
-- [Models](#models)
+- [Models](#models) -->
 <!-- - [Routes](#routes)
 - [Testing](#testing)
 - [Contributing](#contributing)
