@@ -1,6 +1,6 @@
 # Gym Fellas
 
-This is a Node.js Express API designed to handle email operations using MongoDB. It provides endpoints for creating and retrieving email configurations.
+This is Gym Fellas at moment(Lol)
 
 ## Table of Contents
 
